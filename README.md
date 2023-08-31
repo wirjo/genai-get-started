@@ -19,7 +19,6 @@ This repository contains a collection of resources for building your Generative 
 
 * [What is Vector Databases?](https://aws.amazon.com/what-is/vector-databases/)
 * [Question answering using Retrieval Augmented Generation with foundation models in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval-augmented-generation-with-foundation-models-in-amazon-sagemaker-jumpstart/)
-
 * [Quickly build high-accuracy Generative AI applications on enterprise data using Amazon Kendra, LangChain and LLMs](https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/)
 * [Reinventing the data experience: Use generative AI and modern data architecture to unlock insights](https://aws.amazon.com/blogs/machine-learning/reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights/)
 * [Building AI-powered search in PostgreSQL using Amazon SageMaker and pgvector](https://aws.amazon.com/blogs/database/building-ai-powered-search-in-postgresql-using-amazon-sagemaker-and-pgvector/)
