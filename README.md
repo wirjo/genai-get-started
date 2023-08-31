@@ -8,6 +8,11 @@ This repository contains a collection of resources for building your Generative 
 * [Building generative AI applications for your startup](https://aws.amazon.com/blogs/startups/building-generative-ai-applications-for-your-startup-part-1/)
 * [Generative AI on AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/category/artificial-intelligence/generative-ai/)
 
+## Example applications
+
+* [RAG using Langchain, Amazon Bedrock and OpenSearch](https://github.com/aws-samples/rag-using-langchain-amazon-bedrock-and-opensearch)
+* [Chatbot with Generative AI](https://github.com/aws-samples/aws-genai-llm-chatbot/) 
+
 ## Common Architecture Patterns
 
 ### Retrieval Augmented Generation (RAG) with LLMs and Vector Databases
