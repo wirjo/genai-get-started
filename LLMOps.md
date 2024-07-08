@@ -6,7 +6,7 @@ LLMOps (Large Language Model Operations) refers to the specialized practices and
 
 * [Video: LangSmith in 10 minutes](https://www.youtube.com/watch?v=jx7xuHlfsEQ)
 * [Video: Databricks - LLMOps vs MLOps](https://www.youtube.com/watch?v=1jvxxa7tdjw)
-* [Video: Databricsk - LLMs in Production: Fine-Tuning, Scaling, and Evaluation](https://www.youtube.com/watch?v=5Q2KGEN3APk)
+* [Video: Databricks - LLMs in Production: Fine-Tuning, Scaling, and Evaluation](https://www.youtube.com/watch?v=5Q2KGEN3APk)
   * Note: This covers synthetic data generation for businesses with limited data-sets.
 
 ## Open-source Tools 
