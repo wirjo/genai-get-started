@@ -4,6 +4,7 @@ LLMOps (Large Language Model Operations) refers to the specialized practices and
 
 ## LLM Evaluation Videos 
 
+* [Video: Model Evaluation in Amazon Bedrock to compare & choose the right FMs](https://www.youtube.com/watch?v=vyppgNFzhvM)
 * [Video: LangSmith in 10 minutes](https://www.youtube.com/watch?v=jx7xuHlfsEQ)
 * [Video: Databricks - LLMOps vs MLOps](https://www.youtube.com/watch?v=1jvxxa7tdjw)
 * [Video: Databricks - LLMs in Production: Fine-Tuning, Scaling, and Evaluation](https://www.youtube.com/watch?v=5Q2KGEN3APk)
@@ -20,6 +21,7 @@ LLMOps (Large Language Model Operations) refers to the specialized practices and
 
 ## Blog Posts
 
+* [Amazon Bedrock model evaluation](https://aws.amazon.com/blogs/aws/amazon-bedrock-model-evaluation-is-now-generally-available/)
 * [Evaluate the reliability of Retrieval Augmented Generation applications using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/evaluate-the-reliability-of-retrieval-augmented-generation-applications-using-amazon-bedrock/)
   * Covers broad range of techniques including how to optimize a "LLM as a Judge" evaluation
 * [Your AI product needs evals by Hemil Hussain](https://hamel.dev/blog/posts/evals/)
