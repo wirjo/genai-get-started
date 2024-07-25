@@ -12,7 +12,7 @@ LLMOps (Large Language Model Operations) refers to the specialized practices and
 
 ## Open-source Tools 
 
-* https://github.com/langfuse/langfuse
+* https://github.com/langfuse/langfuse (host on aws: https://github.com/aaronsu11/langfuse-on-aws)
 * https://github.com/promptfoo/promptfoo
 * https://github.com/pezzolabs/pezzo
 * https://github.com/lunary-ai/lunary
