@@ -18,6 +18,7 @@ LLMOps (Large Language Model Operations) refers to the specialized practices and
 * https://github.com/lunary-ai/lunary
 * https://github.com/mirascope/mirascope
 * https://github.com/aws/fmeval
+* https://github.com/uptrain-ai/uptrain 
 
 ## Blog Posts
 
